@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If this software is used, please cite the associated article and this archived release."
+title: "µCC hemp-bamboo/epoxy hybrid laminates: analysis and reproduction code"
+type: software
+version: 1.0.0
+date-released: 2026-11-19
+authors:
+  - given-names: Rakesh
+    family-names: Kumar
+    affiliation: "Department of Computer Engineering & Applications, GLA University, Mathura, India"
+  - given-names: G.
+    family-names: Viranya
+    affiliation: "Department of Electronics and Communication Engineering, Pragati Engineering College, Surampalem, India"
+  - given-names: Meerja Akhil
+    family-names: Jabbar
+    affiliation: "Department of CSE (AI&ML), Vardhaman College of Engineering, Hyderabad, India"
+  - given-names: Yagna B.
+    family-names: Adhyaru
+    affiliation: "Department of Computer Engineering, Gokul Global University, Siddhpur, India"
+  - given-names: D.
+    family-names: Kishore
+    affiliation: "Department of Electronics and Communication Engineering, Aditya University, Surampalem, India"
+  - given-names: C.
+    family-names: Ranjeeth Kumar
+    affiliation: "Department of CSE, G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - given-names: Davis Hans
+    family-names: S J
+    affiliation: "Jansons Institute of Technology, Coimbatore, India"
+keywords:
+  - microcrystalline cellulose
+  - hemp-bamboo hybrid laminate
+  - epoxy composite
+  - image analysis
+  - one-way ANOVA
+  - Tukey HSD
+  - thermogravimetric analysis
+  - differential scanning calorimetry
+preferred-citation:
+  type: article
+  title: "Microcrystalline Cellulose Loading-Dependent Microstructure-Interface-Damage Relationships in Hemp-Bamboo/Epoxy Hybrid Laminates"
+  authors:
+    - family-names: Kumar
+      given-names: Rakesh
+    - family-names: Viranya
+      given-names: G.
+    - family-names: Jabbar
+      given-names: Meerja Akhil
+    - family-names: Adhyaru
+      given-names: Yagna B.
+    - family-names: Kishore
+      given-names: D.
+    - family-names: Ranjeeth Kumar
+      given-names: C.
+    - family-names: S J
+      given-names: Davis Hans
+  journal: "Scientific Reports"
+  status: submitted
+  year: 2026

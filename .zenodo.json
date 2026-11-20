@@ -1,0 +1,49 @@
+{
+  "title": "µCC hemp-bamboo/epoxy hybrid laminates: analysis and reproduction code",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Reproducible analysis pipeline for the manuscript 'Microcrystalline Cellulose Loading-Dependent Microstructure-Interface-Damage Relationships in Hemp-Bamboo/Epoxy Hybrid Laminates': SEM image quantification of void fraction and µCC agglomeration, TGA/DSC curve processing, Fickian water-uptake analysis, one-way ANOVA with degrees of freedom and effect sizes, Tukey HSD with compact letter display, correlation and LMG regression, numerical consistency audit, and generation of all data figures and the Figure 1 schematic.",
+  "creators": [
+    {
+      "name": "Kumar, Rakesh",
+      "affiliation": "GLA University, Mathura, India"
+    },
+    {
+      "name": "Viranya, G.",
+      "affiliation": "Pragati Engineering College, Surampalem, India"
+    },
+    {
+      "name": "Jabbar, Meerja Akhil",
+      "affiliation": "Vardhaman College of Engineering, Hyderabad, India"
+    },
+    {
+      "name": "Adhyaru, Yagna B.",
+      "affiliation": "Gokul Global University, Siddhpur, India"
+    },
+    {
+      "name": "Kishore, D.",
+      "affiliation": "Aditya University, Surampalem, India"
+    },
+    {
+      "name": "Ranjeeth Kumar, C.",
+      "affiliation": "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+    },
+    {
+      "name": "S J, Davis Hans",
+      "affiliation": "Jansons Institute of Technology, Coimbatore, India"
+    }
+  ],
+  "keywords": [
+    "microcrystalline cellulose",
+    "natural fibre composites",
+    "hemp",
+    "bamboo",
+    "epoxy",
+    "image analysis",
+    "ANOVA",
+    "Tukey HSD",
+    "TGA",
+    "DSC",
+    "reproducibility"
+  ]
+}
